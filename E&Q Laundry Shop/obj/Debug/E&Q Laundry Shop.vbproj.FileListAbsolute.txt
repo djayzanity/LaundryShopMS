@@ -1,0 +1,25 @@
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\bin\Debug\E&Q Laundry Shop.exe.config
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\bin\Debug\E&Q Laundry Shop.exe
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\bin\Debug\E&Q Laundry Shop.pdb
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\bin\Debug\E&Q Laundry Shop.xml
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E&Q Laundry Shop.vbproj.AssemblyReference.cache
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E&Q Laundry Shop.vbproj.SuggestedBindingRedirects.cache
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E_Q_Laundry_Shop.Form1.resources
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E_Q_Laundry_Shop.Resources.resources
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E_Q_Laundry_Shop.SignUpfrm.resources
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E&Q Laundry Shop.vbproj.GenerateResource.cache
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E&Q Laundry Shop.vbproj.CoreCompileInputs.cache
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E&Q Laundry Shop.exe
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E&Q Laundry Shop.xml
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E&Q Laundry Shop.pdb
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E_Q_Laundry_Shop.Orders.resources
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E_Q_Laundry_Shop.OrderHistory.resources
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\bin\Debug\MySql.Data.dll
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E&Q Laundry Shop.vbproj.CopyComplete
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E_Q_Laundry_Shop.Customers.resources
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E_Q_Laundry_Shop.Menu.resources
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E_Q_Laundry_Shop.CreateOrder.resources
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E_Q_Laundry_Shop.Dashboard.resources
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E_Q_Laundry_Shop.ViewOrders.resources
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E_Q_Laundry_Shop.ChooseOrder.resources
+C:\Users\dhija\source\repos\E&Q Laundry Shop\E&Q Laundry Shop\obj\Debug\E_Q_Laundry_Shop.CreateOrder2.resources
